@@ -71,8 +71,8 @@ cd expenx
 
 Install dependencies
 
-cd server && npm install
-cd ../client && npm install
+cd backend && npm install
+cd ../frontend && npm install
 
 Configure environment variables
 
@@ -116,4 +116,4 @@ This project is licensed under the MIT License.
 # Contact
 
 Priya – priyayadav06092002@gmail.com
-Project Link: https://github.com//expenx
+Project Link: https://github.com/Pria-11/ExpenX
