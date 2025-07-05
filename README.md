@@ -64,9 +64,6 @@ Deployment: Render (or Heroku)
 
 # Installation
 
-Clone the repository
-
-git clone https://github.com/<your-username>/expenx.git
 cd expenx
 
 Install dependencies
