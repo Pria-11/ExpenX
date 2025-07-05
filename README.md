@@ -1,12 +1,12 @@
-#ExpenX
+# ExpenX
 
 Expense Tracker App built with the MERN stack.
 
-Description
+# Description
 
 ExpenX is a mobile‑responsive personal finance dashboard designed to help you monitor and manage your income and expenses. With secure JWT‑based authentication, interactive charts, and comprehensive reporting, ExpenX provides a seamless user experience across devices.
 
-Features
+# Features
 
 User Authentication
 
@@ -48,7 +48,7 @@ Delete on Hover
 
 Hover over items to reveal delete buttons for quick removal
 
-Tech Stack
+# Tech Stack
 
 Frontend: React.js, styled‑components, Chart.js (or Recharts)
 
@@ -62,7 +62,7 @@ Reporting: SheetJS for Excel export
 
 Deployment: Render (or Heroku)
 
-Installation
+# Installation
 
 Clone the repository
 
@@ -86,14 +86,14 @@ PORT=5000
 Run the application
 
 # In one terminal (backend)
-cd server && npm run dev
+cd backend && npm run dev
 
 # In another terminal (frontend)
-cd client && npm start
+cd frontend && npm run dev
 
 AccessOpen http://localhost:3000 in your browser.
 
-Usage
+# Usage
 
 Sign up or log in with your credentials.
 
@@ -109,11 +109,11 @@ Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for improvements or bug fixes.
 
-License
+# License
 
 This project is licensed under the MIT License.
 
-Contact
+# Contact
 
 Priya – priyayadav06092002@gmail.com
 Project Link: https://github.com//expenx
