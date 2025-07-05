@@ -1,4 +1,4 @@
-ExpenX
+#ExpenX
 
 Expense Tracker App built with the MERN stack.
 
